@@ -4,3 +4,6 @@
 # Sass cache
 
 .sass-cache/*
+
+*.txt
+*.rb
